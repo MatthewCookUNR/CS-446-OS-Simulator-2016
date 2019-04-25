@@ -1,5 +1,5 @@
 # Project Details
-### Implemented Features:
+### Features Implemented:
 - Process control block
 - Threading for I/O operations
 - Mutex locks 
