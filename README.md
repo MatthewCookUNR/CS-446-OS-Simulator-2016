@@ -1,4 +1,4 @@
-# CS-446-OS-Simulator-Fall-2016
+# Project Details
 ### Implemented Features:
 - Process control block
 - Threading for I/O operations
